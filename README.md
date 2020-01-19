@@ -1,3 +1,7 @@
+# Readme
+
+This project is using H2 database.
+
 **Get User Details**
 ----
 
